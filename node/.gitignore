@@ -1,0 +1,10 @@
+npm
+
+node-server/node_modules
+node-server/package-lock.json
+node_server/package.json
+
+.vscode
+debug
+
+.DS_Store
